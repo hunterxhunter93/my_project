@@ -4,5 +4,7 @@
     box-sizing: border-box;
 }
 h1{
-   color: red;
+    text-align: center;
+    color: red;
+    background-color: black;
 }
